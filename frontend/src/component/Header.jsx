@@ -4,6 +4,7 @@ import NavbarComponent from './NavbarComponent'
 function Header() {
   return (
     <>
+    {/* navbar added */}
     <NavbarComponent/>
     </>
   )
